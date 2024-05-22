@@ -1,0 +1,7 @@
+numpy
+flask
+flask-cors
+pandas
+openpyxl
+scikit-learn
+sentence-transformers
